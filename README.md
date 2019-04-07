@@ -139,7 +139,7 @@ I applied this pipeline to all test images and obtained decent results for all o
 
 ## Pipeline (video)
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](https://youtu.be/3DwEiRaz6VA)
 
 ---
 
