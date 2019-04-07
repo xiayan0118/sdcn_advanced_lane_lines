@@ -1,11 +1,7 @@
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
+## Advanced Lane Finding Project
 ---
 
-**Advanced Lane Finding Project**
-
+### Goals
 The goals / steps of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
